@@ -40,13 +40,11 @@ const translations = {
           company: "Gestión Tributaria Territorial S.A.",
           period: "2025 - Present",
           description:
-            "Implementing software solutions for tax management, working in an agile and collaborative team. Specialized in C#, ASP.NET, and PL/SQL.",
+            "Implementing software solutions for tax management, working in an agile and collaborative team. Specialized in C#, ASP.NET, PL/SQL and TypeScript.",
           achievements: [
-            "",
-            "",
-            "",
+            "Testing using the Playwright framework",
           ],
-          show: false,
+          show: true,
         },
         {
           role: "eduroam IT Support",
@@ -140,13 +138,11 @@ const translations = {
           company: "Gestión Tributaria Territorial S.A.",
           period: "2025 - Presente",
           description:
-            "Implementando soluciones de software para la gestión tributaria, trabajando en un equipo ágil y colaborativo. Especializado en C#, ASP.NET y PL/SQL.",
+            "Implementando soluciones de software para la gestión tributaria, trabajando en un equipo ágil y colaborativo. Especializado en C#, ASP.NET, PL/SQL y TypeScript.",
           achievements: [
-            "",
-            "",
-            "",
+            "Testing usando el framework Playwright",
           ],
-          show: false,
+          show: true,
         },
         {
           role: "Soporte IT eduroam",
